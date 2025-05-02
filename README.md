@@ -60,19 +60,21 @@ Used Power Query to clean raw data: removed duplicates, formatted timestamps, cr
 
 ## How to Use
 - Open the Power BI dashboard.
-- Use slicers to filter data by Fat Content, Outlet Type, Establishment Year.
-- Interact with charts to view specific insights.
+- Use slicers to filter by hour, day, location.
+- Hover over visuals to explore trends, peak times, and location performance.
 
 
 
-## Key Insights
+## 🔍 Key Insights – Detailed Breakdown
 
-- **Overall Performance** :
+- **🚗 Overall Performance** :
   
-High Total Sales: Blinkit has achieved $1.2M in total sales.
-Solid Average Sales: Average sales stand at $141.0, indicating consistency across outlets.
-Large Number of Items Sold: 8523 items sold, showing a strong customer base and operational efficiency.
-Good Average Rating: A 3.9 average rating suggests general customer satisfaction.
+Total Rides: Uber successfully completed over 1.2 million rides during the analysis period, indicating a high demand for ride-sharing services.
+
+Steady Growth: A positive trend in total trips across the weeks suggests growing user engagement and possibly increased adoption of Uber services in urban areas.
+
+Customer Reach: High trip volumes across multiple zones reflect a broad customer base and efficient geographic coverage.
+
 
 
 - **Sales Trends** :
@@ -119,7 +121,7 @@ Leverage Customer Insights: Further analyze customer preferences to enhance prod
 
 ## Conclusion
 
-Blinkit's performance is strong, with high sales, steady growth, and a dominant presence in Tier 3 cities. Focusing on underperforming categories, optimizing outlet strategies, and leveraging customer insights can drive further success. By replicating past growth trends and improving product visibility, Blinkit can enhance efficiency and maximize future opportunities.
+The Uber analysis dashboard reveals clear demand trends, key operational windows, and high-performing locations. These insights can support better driver deployment, targeted promotions, and data-driven service improvements.
 
 
 
