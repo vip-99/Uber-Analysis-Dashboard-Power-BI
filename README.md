@@ -3,7 +3,8 @@
 Primary goal is to analyze Uber ride data to uncover trends and insights.
 
  
-![Dashboard Image](https://raw.githubusercontent.com/vip-99/Blinkit-Analysis-Power-BI/main/Screenshot%20(146).png)
+![Dashboard Image](https://github.com/vip-99/Uber-Analysis-Dashboard-Power-BI/raw/main/UberTaxi_Illustration3_Black.svg)
+
 
 
 
