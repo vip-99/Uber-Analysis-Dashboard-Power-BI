@@ -69,55 +69,55 @@ Used Power Query to clean raw data: removed duplicates, formatted timestamps, cr
 
 - **🚗 Overall Performance** :
   
-Total Rides: Uber successfully completed over 1.2 million rides during the analysis period, indicating a high demand for ride-sharing services.
+1. Total Rides: Uber successfully completed over 1.2 million rides during the analysis period, indicating a high demand for ride-sharing services.
 
-Steady Growth: A positive trend in total trips across the weeks suggests growing user engagement and possibly increased adoption of Uber services in urban areas.
+2. Steady Growth: A positive trend in total trips across the weeks suggests growing user engagement and possibly increased adoption of Uber services in urban areas.
 
-Customer Reach: High trip volumes across multiple zones reflect a broad customer base and efficient geographic coverage.
+3. Customer Reach: High trip volumes across multiple zones reflect a broad customer base and efficient geographic coverage.
 
 
 
 
 - **⏰ Time-Based Ride Trends** :
   
-Peak Hours Identified: The busiest times are between 5:00 PM and 8:00 PM, aligning with evening rush hours when commuters return home from work.
+1. Peak Hours Identified: The busiest times are between 5:00 PM and 8:00 PM, aligning with evening rush hours when commuters return home from work.
 
-Morning Commute Pattern: A secondary peak between 7:00 AM and 9:00 AM highlights morning commute preferences.
+2. Morning Commute Pattern: A secondary peak between 7:00 AM and 9:00 AM highlights morning commute preferences.
 
-Weekend Spike: Ride demand increases significantly on Fridays and Saturdays, especially during late evenings (10 PM to 1 AM), indicating usage for social and nightlife activities.
+3. Weekend Spike: Ride demand increases significantly on Fridays and Saturdays, especially during late evenings (10 PM to 1 AM), indicating usage for social and nightlife activities.
 
-Low-Demand Windows: Early morning hours (2 AM to 6 AM) show the lowest ride activity—potentially a cost-saving opportunity for driver deployment.
+4. Low-Demand Windows: Early morning hours (2 AM to 6 AM) show the lowest ride activity—potentially a cost-saving opportunity for driver deployment.
 
 
 
 - **📍 Location-Based Insights**:
 
-Top Pickup Zones: The highest ride counts are observed in Midtown, Financial District, and Lower Manhattan, making these core areas for driver availability and promotions.
+1. Top Pickup Zones: The highest ride counts are observed in Midtown, Financial District, and Lower Manhattan, making these core areas for driver availability and promotions.
 
-Underutilized Areas: Zones like Harlem and suburban edges show lower activity, signaling potential areas for growth through targeted campaigns or discounts.
+2. Underutilized Areas: Zones like Harlem and suburban edges show lower activity, signaling potential areas for growth through targeted campaigns or discounts.
 
-Central Hub Dominance: The majority of trips begin or end in central business districts, underlining the importance of these hubs for strategic operations.
+3. Central Hub Dominance: The majority of trips begin or end in central business districts, underlining the importance of these hubs for strategic operations.
 
 
 
 - **👥 Customer Behavior Patterns** :
   
-Routine Use Case: The strong peaks during work commute hours (morning and evening) indicate that many users rely on Uber as part of their daily routine.
+1. Routine Use Case: The strong peaks during work commute hours (morning and evening) indicate that many users rely on Uber as part of their daily routine.
 
-Leisure Time Use: Weekend late-night spikes suggest customers use Uber for entertainment-related travel (restaurants, parties, events).
+2. Leisure Time Use: Weekend late-night spikes suggest customers use Uber for entertainment-related travel (restaurants, parties, events).
 
-Ride Clustering: Trips are highly clustered around specific hours and areas, which can inform dynamic pricing, surge planning, and driver incentives.
+3. Ride Clustering: Trips are highly clustered around specific hours and areas, which can inform dynamic pricing, surge planning, and driver incentives.
 
 
 
 
 - **📈 Operational Efficiency & Demand Patterns** :
 
-Trip Consistency: Days like Thursday and Friday show consistently high ride volumes, indicating stable operational demand.
+1. Trip Consistency: Days like Thursday and Friday show consistently high ride volumes, indicating stable operational demand.
 
-Trip Volume Fluctuations: Some weeks show sudden dips, possibly due to weather or events. Analyzing external factors could help predict future demand patterns.
+2. Trip Volume Fluctuations: Some weeks show sudden dips, possibly due to weather or events. Analyzing external factors could help predict future demand patterns.
 
-Utilization Opportunities: Encouraging rides during low-demand periods (early mornings, mid-afternoons) could improve overall utilization and revenue.
+3. Utilization Opportunities: Encouraging rides during low-demand periods (early mornings, mid-afternoons) could improve overall utilization and revenue.
 
 
 
