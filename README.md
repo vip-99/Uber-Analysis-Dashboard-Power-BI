@@ -70,9 +70,7 @@ Used Power Query to clean raw data: removed duplicates, formatted timestamps, cr
 - **🚗 Overall Performance** :
   
 Total Rides: Uber successfully completed over 1.2 million rides during the analysis period, indicating a high demand for ride-sharing services.
-
 Steady Growth: A positive trend in total trips across the weeks suggests growing user engagement and possibly increased adoption of Uber services in urban areas.
-
 Customer Reach: High trip volumes across multiple zones reflect a broad customer base and efficient geographic coverage.
 
 
